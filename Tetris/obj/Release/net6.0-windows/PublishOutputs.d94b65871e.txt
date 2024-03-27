@@ -1,0 +1,5 @@
+C:\Users\ADI\Desktop\Proiecte C#\Tetris\Tetris.exe
+C:\Users\ADI\Desktop\Proiecte C#\Tetris\Tetris.dll
+C:\Users\ADI\Desktop\Proiecte C#\Tetris\Tetris.deps.json
+C:\Users\ADI\Desktop\Proiecte C#\Tetris\Tetris.runtimeconfig.json
+C:\Users\ADI\Desktop\Proiecte C#\Tetris\Tetris.pdb
